@@ -23,3 +23,5 @@ The contract constructor initializes the token with a name, symbol, and owner.
 
 ```solidity
 constructor(address initialOwner) ERC20("MarySpidy", "MARYSPIDY") Ownable(initialOwner) {}
+
+This single-file `README.md` includes a complete overview of the `Token` contract, its functions, and features in a concise and organized format.
